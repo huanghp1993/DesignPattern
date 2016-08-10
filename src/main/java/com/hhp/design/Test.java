@@ -1,4 +1,4 @@
-package com.hhp;
+package com.hhp.design;
 
 /**
  * Created by huanghaopeng on 16/8/10.
