@@ -1,7 +1,6 @@
 package com.hhp.cache.guava;
 
 import com.google.common.cache.*;
-import com.google.common.util.concurrent.Futures;
 import com.google.common.util.concurrent.ListenableFuture;
 import com.google.common.util.concurrent.ListenableFutureTask;
 
@@ -10,6 +9,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * GuavaCache Demo
  * Created by huanghaopeng on 16/8/17.
  */
 public class GuavaCacheDemo {
