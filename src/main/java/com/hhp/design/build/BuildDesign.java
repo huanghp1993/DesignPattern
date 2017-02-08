@@ -38,6 +38,10 @@ public class BuildDesign {
     }
 
     public static void main(String[] args) {
-        new BuildDesign.Builder().setName("huang").setAge(8).build();
+        new BuildDesign
+                .Builder()
+                .setName("huang")
+                .setAge(8)
+                .build();
     }
 }
